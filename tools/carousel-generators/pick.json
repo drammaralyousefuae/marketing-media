@@ -1,0 +1,1276 @@
+{
+ "2026-10-14-jaw-sleep": {
+  "v": "v2",
+  "slides": {}
+ },
+ "2026-10-15-jaw-clicking": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    999.0,
+    null,
+    null
+   ],
+   "2": [
+    999.0,
+    null,
+    null
+   ],
+   "3": [
+    999.0,
+    null,
+    null
+   ],
+   "4": [
+    999.0,
+    null,
+    null
+   ],
+   "5": [
+    999.0,
+    null,
+    null
+   ],
+   "6": [
+    999.0,
+    null,
+    null
+   ]
+  }
+ },
+ "2026-10-17-missing-back-teeth": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    999.0,
+    null,
+    null
+   ],
+   "2": [
+    999.0,
+    null,
+    null
+   ],
+   "3": [
+    999.0,
+    null,
+    null
+   ],
+   "4": [
+    999.0,
+    null,
+    null
+   ],
+   "5": [
+    999.0,
+    null,
+    null
+   ],
+   "6": [
+    999.0,
+    null,
+    null
+   ]
+  }
+ },
+ "2026-10-19-one-day-implant": {
+  "v": "v2",
+  "slides": {
+   "1": [
+    0.0,
+    "gen",
+    "id_out/oneday/ig/oneday_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen",
+    "id_out/oneday/ig/oneday_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen",
+    "id_out/oneday/ig/oneday_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen",
+    "id_out/oneday/ig/oneday_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen",
+    "id_out/oneday/ig/oneday_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen",
+    "id_out/oneday/ig/oneday_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen",
+    "id_out/oneday/ig/oneday_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-20-first-consultation": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    12.71,
+    "gen2",
+    "id_out/g2/2026-10-20-first-consultation/v1/ig/2026-10-20-first-consultation_ig_1.jpg"
+   ],
+   "2": [
+    1.2,
+    "gen2",
+    "id_out/g2/2026-10-20-first-consultation/v1/ig/2026-10-20-first-consultation_ig_2.jpg"
+   ],
+   "3": [
+    0.66,
+    "gen2",
+    "id_out/g2/2026-10-20-first-consultation/v1/ig/2026-10-20-first-consultation_ig_3.jpg"
+   ],
+   "4": [
+    0.74,
+    "gen2",
+    "id_out/g2/2026-10-20-first-consultation/v1/ig/2026-10-20-first-consultation_ig_4.jpg"
+   ],
+   "5": [
+    0.9,
+    "gen2",
+    "id_out/g2/2026-10-20-first-consultation/v1/ig/2026-10-20-first-consultation_ig_5.jpg"
+   ],
+   "6": [
+    0.55,
+    "gen2",
+    "id_out/g2/2026-10-20-first-consultation/v1/ig/2026-10-20-first-consultation_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-20-first-consultation/v1/ig/2026-10-20-first-consultation_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-21-child-mouth-breathing-short": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    13.77,
+    "gen2",
+    "id_out/g2/2026-10-21-child-mouth-breathing-short/v1/ig/2026-10-21-child-mouth-breathing-short_ig_1.jpg"
+   ],
+   "2": [
+    0.8,
+    "gen2",
+    "id_out/g2/2026-10-21-child-mouth-breathing-short/v1/ig/2026-10-21-child-mouth-breathing-short_ig_2.jpg"
+   ],
+   "3": [
+    0.59,
+    "gen2",
+    "id_out/g2/2026-10-21-child-mouth-breathing-short/v1/ig/2026-10-21-child-mouth-breathing-short_ig_3.jpg"
+   ],
+   "4": [
+    0.85,
+    "gen2",
+    "id_out/g2/2026-10-21-child-mouth-breathing-short/v1/ig/2026-10-21-child-mouth-breathing-short_ig_4.jpg"
+   ],
+   "5": [
+    0.77,
+    "gen2",
+    "id_out/g2/2026-10-21-child-mouth-breathing-short/v1/ig/2026-10-21-child-mouth-breathing-short_ig_5.jpg"
+   ],
+   "6": [
+    0.84,
+    "gen2",
+    "id_out/g2/2026-10-21-child-mouth-breathing-short/v1/ig/2026-10-21-child-mouth-breathing-short_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-21-child-mouth-breathing-short/v1/ig/2026-10-21-child-mouth-breathing-short_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-22-child-mouth-breathing-long": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    15.02,
+    "gen2",
+    "id_out/g2/2026-10-22-child-mouth-breathing-long/v1/ig/2026-10-22-child-mouth-breathing-long_ig_1.jpg"
+   ],
+   "2": [
+    0.9,
+    "gen2",
+    "id_out/g2/2026-10-22-child-mouth-breathing-long/v1/ig/2026-10-22-child-mouth-breathing-long_ig_2.jpg"
+   ],
+   "3": [
+    0.76,
+    "gen2",
+    "id_out/g2/2026-10-22-child-mouth-breathing-long/v1/ig/2026-10-22-child-mouth-breathing-long_ig_3.jpg"
+   ],
+   "4": [
+    0.93,
+    "gen2",
+    "id_out/g2/2026-10-22-child-mouth-breathing-long/v1/ig/2026-10-22-child-mouth-breathing-long_ig_4.jpg"
+   ],
+   "5": [
+    0.86,
+    "gen2",
+    "id_out/g2/2026-10-22-child-mouth-breathing-long/v1/ig/2026-10-22-child-mouth-breathing-long_ig_5.jpg"
+   ],
+   "6": [
+    1.25,
+    "gen2",
+    "id_out/g2/2026-10-22-child-mouth-breathing-long/v1/ig/2026-10-22-child-mouth-breathing-long_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-22-child-mouth-breathing-long/v1/ig/2026-10-22-child-mouth-breathing-long_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-23-child-mouth-breathing-signs": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    13.43,
+    "gen2",
+    "id_out/g2/2026-10-23-child-mouth-breathing-signs/v1/ig/2026-10-23-child-mouth-breathing-signs_ig_1.jpg"
+   ],
+   "2": [
+    0.78,
+    "gen2",
+    "id_out/g2/2026-10-23-child-mouth-breathing-signs/v1/ig/2026-10-23-child-mouth-breathing-signs_ig_2.jpg"
+   ],
+   "3": [
+    0.77,
+    "gen2",
+    "id_out/g2/2026-10-23-child-mouth-breathing-signs/v1/ig/2026-10-23-child-mouth-breathing-signs_ig_3.jpg"
+   ],
+   "4": [
+    1.17,
+    "gen2",
+    "id_out/g2/2026-10-23-child-mouth-breathing-signs/v1/ig/2026-10-23-child-mouth-breathing-signs_ig_4.jpg"
+   ],
+   "5": [
+    0.74,
+    "gen2",
+    "id_out/g2/2026-10-23-child-mouth-breathing-signs/v1/ig/2026-10-23-child-mouth-breathing-signs_ig_5.jpg"
+   ],
+   "6": [
+    0.59,
+    "gen2",
+    "id_out/g2/2026-10-23-child-mouth-breathing-signs/v1/ig/2026-10-23-child-mouth-breathing-signs_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-23-child-mouth-breathing-signs/v1/ig/2026-10-23-child-mouth-breathing-signs_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-24-slept-7-hours-still-tired": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    13.31,
+    "gen2",
+    "id_out/g2/2026-10-24-slept-7-hours-still-tired/v1/ig/2026-10-24-slept-7-hours-still-tired_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-24-slept-7-hours-still-tired/v1/ig/2026-10-24-slept-7-hours-still-tired_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-24-slept-7-hours-still-tired/v1/ig/2026-10-24-slept-7-hours-still-tired_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-24-slept-7-hours-still-tired/v1/ig/2026-10-24-slept-7-hours-still-tired_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-24-slept-7-hours-still-tired/v1/ig/2026-10-24-slept-7-hours-still-tired_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-24-slept-7-hours-still-tired/v1/ig/2026-10-24-slept-7-hours-still-tired_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-24-slept-7-hours-still-tired/v1/ig/2026-10-24-slept-7-hours-still-tired_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-26-uars": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    15.35,
+    "gen2",
+    "id_out/g2/2026-10-26-uars/v1/ig/2026-10-26-uars_ig_1.jpg"
+   ],
+   "2": [
+    0.83,
+    "gen2",
+    "id_out/g2/2026-10-26-uars/v1/ig/2026-10-26-uars_ig_2.jpg"
+   ],
+   "3": [
+    0.82,
+    "gen2",
+    "id_out/g2/2026-10-26-uars/v1/ig/2026-10-26-uars_ig_3.jpg"
+   ],
+   "4": [
+    0.95,
+    "gen2",
+    "id_out/g2/2026-10-26-uars/v1/ig/2026-10-26-uars_ig_4.jpg"
+   ],
+   "5": [
+    0.57,
+    "gen2",
+    "id_out/g2/2026-10-26-uars/v1/ig/2026-10-26-uars_ig_5.jpg"
+   ],
+   "6": [
+    0.93,
+    "gen2",
+    "id_out/g2/2026-10-26-uars/v1/ig/2026-10-26-uars_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-10-26-uars/v1/ig/2026-10-26-uars_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-27-reading-sleep-study": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-27-reading-sleep-study/v1/ig/2026-10-27-reading-sleep-study_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-27-reading-sleep-study/v1/ig/2026-10-27-reading-sleep-study_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-27-reading-sleep-study/v1/ig/2026-10-27-reading-sleep-study_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-27-reading-sleep-study/v1/ig/2026-10-27-reading-sleep-study_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-27-reading-sleep-study/v1/ig/2026-10-27-reading-sleep-study_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-27-reading-sleep-study/v1/ig/2026-10-27-reading-sleep-study_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-27-reading-sleep-study/v1/ig/2026-10-27-reading-sleep-study_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-28-bp-hr-peaks-1": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-28-bp-hr-peaks-1/v1/ig/2026-10-28-bp-hr-peaks-1_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-28-bp-hr-peaks-1/v1/ig/2026-10-28-bp-hr-peaks-1_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-28-bp-hr-peaks-1/v1/ig/2026-10-28-bp-hr-peaks-1_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-28-bp-hr-peaks-1/v1/ig/2026-10-28-bp-hr-peaks-1_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-28-bp-hr-peaks-1/v1/ig/2026-10-28-bp-hr-peaks-1_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-28-bp-hr-peaks-1/v1/ig/2026-10-28-bp-hr-peaks-1_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-28-bp-hr-peaks-1/v1/ig/2026-10-28-bp-hr-peaks-1_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-29-ct-scan-airway": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-29-ct-scan-airway/v1/ig/2026-10-29-ct-scan-airway_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-29-ct-scan-airway/v1/ig/2026-10-29-ct-scan-airway_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-29-ct-scan-airway/v1/ig/2026-10-29-ct-scan-airway_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-29-ct-scan-airway/v1/ig/2026-10-29-ct-scan-airway_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-29-ct-scan-airway/v1/ig/2026-10-29-ct-scan-airway_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-29-ct-scan-airway/v1/ig/2026-10-29-ct-scan-airway_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-29-ct-scan-airway/v1/ig/2026-10-29-ct-scan-airway_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-30-blocked-nose": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-30-blocked-nose/v1/ig/2026-10-30-blocked-nose_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-30-blocked-nose/v1/ig/2026-10-30-blocked-nose_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-30-blocked-nose/v1/ig/2026-10-30-blocked-nose_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-30-blocked-nose/v1/ig/2026-10-30-blocked-nose_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-30-blocked-nose/v1/ig/2026-10-30-blocked-nose_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-30-blocked-nose/v1/ig/2026-10-30-blocked-nose_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-30-blocked-nose/v1/ig/2026-10-30-blocked-nose_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-10-31-low-tongue-spaced-teeth": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-31-low-tongue-spaced-teeth/v1/ig/2026-10-31-low-tongue-spaced-teeth_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-31-low-tongue-spaced-teeth/v1/ig/2026-10-31-low-tongue-spaced-teeth_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-31-low-tongue-spaced-teeth/v1/ig/2026-10-31-low-tongue-spaced-teeth_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-31-low-tongue-spaced-teeth/v1/ig/2026-10-31-low-tongue-spaced-teeth_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-31-low-tongue-spaced-teeth/v1/ig/2026-10-31-low-tongue-spaced-teeth_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-31-low-tongue-spaced-teeth/v1/ig/2026-10-31-low-tongue-spaced-teeth_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-10-31-low-tongue-spaced-teeth/v1/ig/2026-10-31-low-tongue-spaced-teeth_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-02-jaw-first-link": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-02-jaw-first-link/v1/ig/2026-11-02-jaw-first-link_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-02-jaw-first-link/v1/ig/2026-11-02-jaw-first-link_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-02-jaw-first-link/v1/ig/2026-11-02-jaw-first-link_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-02-jaw-first-link/v1/ig/2026-11-02-jaw-first-link_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-02-jaw-first-link/v1/ig/2026-11-02-jaw-first-link_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-02-jaw-first-link/v1/ig/2026-11-02-jaw-first-link_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-02-jaw-first-link/v1/ig/2026-11-02-jaw-first-link_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-03-body-compensates-by-day": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-03-body-compensates-by-day/v1/ig/2026-11-03-body-compensates-by-day_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-03-body-compensates-by-day/v1/ig/2026-11-03-body-compensates-by-day_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-03-body-compensates-by-day/v1/ig/2026-11-03-body-compensates-by-day_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-03-body-compensates-by-day/v1/ig/2026-11-03-body-compensates-by-day_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-03-body-compensates-by-day/v1/ig/2026-11-03-body-compensates-by-day_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-03-body-compensates-by-day/v1/ig/2026-11-03-body-compensates-by-day_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-03-body-compensates-by-day/v1/ig/2026-11-03-body-compensates-by-day_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-04-why-nothing-worked": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-04-why-nothing-worked/v1/ig/2026-11-04-why-nothing-worked_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-04-why-nothing-worked/v1/ig/2026-11-04-why-nothing-worked_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-04-why-nothing-worked/v1/ig/2026-11-04-why-nothing-worked_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-04-why-nothing-worked/v1/ig/2026-11-04-why-nothing-worked_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-04-why-nothing-worked/v1/ig/2026-11-04-why-nothing-worked_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-04-why-nothing-worked/v1/ig/2026-11-04-why-nothing-worked_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-04-why-nothing-worked/v1/ig/2026-11-04-why-nothing-worked_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-05-diagnosis-first": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-05-diagnosis-first/v1/ig/2026-11-05-diagnosis-first_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-05-diagnosis-first/v1/ig/2026-11-05-diagnosis-first_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-05-diagnosis-first/v1/ig/2026-11-05-diagnosis-first_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-05-diagnosis-first/v1/ig/2026-11-05-diagnosis-first_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-05-diagnosis-first/v1/ig/2026-11-05-diagnosis-first_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-05-diagnosis-first/v1/ig/2026-11-05-diagnosis-first_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-05-diagnosis-first/v1/ig/2026-11-05-diagnosis-first_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-06-splints-oral-appliances": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-06-splints-oral-appliances/v1/ig/2026-11-06-splints-oral-appliances_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-06-splints-oral-appliances/v1/ig/2026-11-06-splints-oral-appliances_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-06-splints-oral-appliances/v1/ig/2026-11-06-splints-oral-appliances_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-06-splints-oral-appliances/v1/ig/2026-11-06-splints-oral-appliances_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-06-splints-oral-appliances/v1/ig/2026-11-06-splints-oral-appliances_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-06-splints-oral-appliances/v1/ig/2026-11-06-splints-oral-appliances_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-06-splints-oral-appliances/v1/ig/2026-11-06-splints-oral-appliances_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-07-tongue-muscle-exercises": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-07-tongue-muscle-exercises/v1/ig/2026-11-07-tongue-muscle-exercises_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-07-tongue-muscle-exercises/v1/ig/2026-11-07-tongue-muscle-exercises_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-07-tongue-muscle-exercises/v1/ig/2026-11-07-tongue-muscle-exercises_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-07-tongue-muscle-exercises/v1/ig/2026-11-07-tongue-muscle-exercises_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-07-tongue-muscle-exercises/v1/ig/2026-11-07-tongue-muscle-exercises_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-07-tongue-muscle-exercises/v1/ig/2026-11-07-tongue-muscle-exercises_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-07-tongue-muscle-exercises/v1/ig/2026-11-07-tongue-muscle-exercises_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-09-tmj-injections": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-09-tmj-injections/v1/ig/2026-11-09-tmj-injections_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-09-tmj-injections/v1/ig/2026-11-09-tmj-injections_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-09-tmj-injections/v1/ig/2026-11-09-tmj-injections_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-09-tmj-injections/v1/ig/2026-11-09-tmj-injections_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-09-tmj-injections/v1/ig/2026-11-09-tmj-injections_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-09-tmj-injections/v1/ig/2026-11-09-tmj-injections_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-09-tmj-injections/v1/ig/2026-11-09-tmj-injections_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-10-jaw-muscle-pain": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-10-jaw-muscle-pain/v1/ig/2026-11-10-jaw-muscle-pain_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-10-jaw-muscle-pain/v1/ig/2026-11-10-jaw-muscle-pain_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-10-jaw-muscle-pain/v1/ig/2026-11-10-jaw-muscle-pain_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-10-jaw-muscle-pain/v1/ig/2026-11-10-jaw-muscle-pain_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-10-jaw-muscle-pain/v1/ig/2026-11-10-jaw-muscle-pain_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-10-jaw-muscle-pain/v1/ig/2026-11-10-jaw-muscle-pain_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-10-jaw-muscle-pain/v1/ig/2026-11-10-jaw-muscle-pain_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-11-surgery-only-if-needed": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-11-surgery-only-if-needed/v1/ig/2026-11-11-surgery-only-if-needed_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-11-surgery-only-if-needed/v1/ig/2026-11-11-surgery-only-if-needed_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-11-surgery-only-if-needed/v1/ig/2026-11-11-surgery-only-if-needed_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-11-surgery-only-if-needed/v1/ig/2026-11-11-surgery-only-if-needed_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-11-surgery-only-if-needed/v1/ig/2026-11-11-surgery-only-if-needed_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-11-surgery-only-if-needed/v1/ig/2026-11-11-surgery-only-if-needed_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-11-surgery-only-if-needed/v1/ig/2026-11-11-surgery-only-if-needed_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-12-success-rate-85": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-12-success-rate-85/v1/ig/2026-11-12-success-rate-85_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-12-success-rate-85/v1/ig/2026-11-12-success-rate-85_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-12-success-rate-85/v1/ig/2026-11-12-success-rate-85_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-12-success-rate-85/v1/ig/2026-11-12-success-rate-85_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-12-success-rate-85/v1/ig/2026-11-12-success-rate-85_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-12-success-rate-85/v1/ig/2026-11-12-success-rate-85_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-12-success-rate-85/v1/ig/2026-11-12-success-rate-85_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-13-honest-faq": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-13-honest-faq/v1/ig/2026-11-13-honest-faq_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-13-honest-faq/v1/ig/2026-11-13-honest-faq_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-13-honest-faq/v1/ig/2026-11-13-honest-faq_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-13-honest-faq/v1/ig/2026-11-13-honest-faq_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-13-honest-faq/v1/ig/2026-11-13-honest-faq_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-13-honest-faq/v1/ig/2026-11-13-honest-faq_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-13-honest-faq/v1/ig/2026-11-13-honest-faq_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-14-jaw-airway-in-every-program": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-14-jaw-airway-in-every-program/v1/ig/2026-11-14-jaw-airway-in-every-program_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-14-jaw-airway-in-every-program/v1/ig/2026-11-14-jaw-airway-in-every-program_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-14-jaw-airway-in-every-program/v1/ig/2026-11-14-jaw-airway-in-every-program_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-14-jaw-airway-in-every-program/v1/ig/2026-11-14-jaw-airway-in-every-program_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-14-jaw-airway-in-every-program/v1/ig/2026-11-14-jaw-airway-in-every-program_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-14-jaw-airway-in-every-program/v1/ig/2026-11-14-jaw-airway-in-every-program_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen2",
+    "id_out/g2/2026-11-14-jaw-airway-in-every-program/v1/ig/2026-11-14-jaw-airway-in-every-program_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-16-gaps-not-cosmetic": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-16-gaps-not-cosmetic/v1/ig/2026-11-16-gaps-not-cosmetic_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-16-gaps-not-cosmetic/v1/ig/2026-11-16-gaps-not-cosmetic_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-16-gaps-not-cosmetic/v1/ig/2026-11-16-gaps-not-cosmetic_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-16-gaps-not-cosmetic/v1/ig/2026-11-16-gaps-not-cosmetic_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-16-gaps-not-cosmetic/v1/ig/2026-11-16-gaps-not-cosmetic_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-16-gaps-not-cosmetic/v1/ig/2026-11-16-gaps-not-cosmetic_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-16-gaps-not-cosmetic/v1/ig/2026-11-16-gaps-not-cosmetic_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-17-recession-hidden-cause": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-17-recession-hidden-cause/v1/ig/2026-11-17-recession-hidden-cause_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-17-recession-hidden-cause/v1/ig/2026-11-17-recession-hidden-cause_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-17-recession-hidden-cause/v1/ig/2026-11-17-recession-hidden-cause_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-17-recession-hidden-cause/v1/ig/2026-11-17-recession-hidden-cause_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-17-recession-hidden-cause/v1/ig/2026-11-17-recession-hidden-cause_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-17-recession-hidden-cause/v1/ig/2026-11-17-recession-hidden-cause_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen3",
+    "id_out/g3/2026-11-17-recession-hidden-cause/v1/ig/2026-11-17-recession-hidden-cause_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-20-bp-hr-peaks-2": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-20-bp-hr-peaks-2/v1/ig/2026-11-20-bp-hr-peaks-2_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-20-bp-hr-peaks-2/v1/ig/2026-11-20-bp-hr-peaks-2_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-20-bp-hr-peaks-2/v1/ig/2026-11-20-bp-hr-peaks-2_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-20-bp-hr-peaks-2/v1/ig/2026-11-20-bp-hr-peaks-2_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-20-bp-hr-peaks-2/v1/ig/2026-11-20-bp-hr-peaks-2_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-20-bp-hr-peaks-2/v1/ig/2026-11-20-bp-hr-peaks-2_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-20-bp-hr-peaks-2/v1/ig/2026-11-20-bp-hr-peaks-2_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-21-bp-hr-peaks-3": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-21-bp-hr-peaks-3/v1/ig/2026-11-21-bp-hr-peaks-3_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-21-bp-hr-peaks-3/v1/ig/2026-11-21-bp-hr-peaks-3_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-21-bp-hr-peaks-3/v1/ig/2026-11-21-bp-hr-peaks-3_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-21-bp-hr-peaks-3/v1/ig/2026-11-21-bp-hr-peaks-3_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-21-bp-hr-peaks-3/v1/ig/2026-11-21-bp-hr-peaks-3_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-21-bp-hr-peaks-3/v1/ig/2026-11-21-bp-hr-peaks-3_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-21-bp-hr-peaks-3/v1/ig/2026-11-21-bp-hr-peaks-3_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-23-bp-hr-peaks-4": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-23-bp-hr-peaks-4/v1/ig/2026-11-23-bp-hr-peaks-4_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-23-bp-hr-peaks-4/v1/ig/2026-11-23-bp-hr-peaks-4_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-23-bp-hr-peaks-4/v1/ig/2026-11-23-bp-hr-peaks-4_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-23-bp-hr-peaks-4/v1/ig/2026-11-23-bp-hr-peaks-4_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-23-bp-hr-peaks-4/v1/ig/2026-11-23-bp-hr-peaks-4_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-23-bp-hr-peaks-4/v1/ig/2026-11-23-bp-hr-peaks-4_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-23-bp-hr-peaks-4/v1/ig/2026-11-23-bp-hr-peaks-4_ig_7.jpg"
+   ]
+  }
+ },
+ "2026-11-24-bp-hr-peaks-5": {
+  "v": "v1",
+  "slides": {
+   "1": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-24-bp-hr-peaks-5/v1/ig/2026-11-24-bp-hr-peaks-5_ig_1.jpg"
+   ],
+   "2": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-24-bp-hr-peaks-5/v1/ig/2026-11-24-bp-hr-peaks-5_ig_2.jpg"
+   ],
+   "3": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-24-bp-hr-peaks-5/v1/ig/2026-11-24-bp-hr-peaks-5_ig_3.jpg"
+   ],
+   "4": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-24-bp-hr-peaks-5/v1/ig/2026-11-24-bp-hr-peaks-5_ig_4.jpg"
+   ],
+   "5": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-24-bp-hr-peaks-5/v1/ig/2026-11-24-bp-hr-peaks-5_ig_5.jpg"
+   ],
+   "6": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-24-bp-hr-peaks-5/v1/ig/2026-11-24-bp-hr-peaks-5_ig_6.jpg"
+   ],
+   "7": [
+    0.0,
+    "gen4",
+    "id_out/g4/2026-11-24-bp-hr-peaks-5/v1/ig/2026-11-24-bp-hr-peaks-5_ig_7.jpg"
+   ]
+  }
+ }
+}
